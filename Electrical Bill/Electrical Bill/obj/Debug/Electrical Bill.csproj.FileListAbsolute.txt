@@ -1,0 +1,6 @@
+C:\Users\sudheer\Documents\C#Practice\Electrical Bill\Electrical Bill\bin\Debug\Electrical Bill.exe.config
+C:\Users\sudheer\Documents\C#Practice\Electrical Bill\Electrical Bill\bin\Debug\Electrical Bill.exe
+C:\Users\sudheer\Documents\C#Practice\Electrical Bill\Electrical Bill\bin\Debug\Electrical Bill.pdb
+C:\Users\sudheer\Documents\C#Practice\Electrical Bill\Electrical Bill\obj\Debug\Electrical Bill.csprojResolveAssemblyReference.cache
+C:\Users\sudheer\Documents\C#Practice\Electrical Bill\Electrical Bill\obj\Debug\Electrical Bill.exe
+C:\Users\sudheer\Documents\C#Practice\Electrical Bill\Electrical Bill\obj\Debug\Electrical Bill.pdb

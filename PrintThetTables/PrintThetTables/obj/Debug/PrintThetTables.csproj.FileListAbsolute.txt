@@ -1,0 +1,6 @@
+C:\Users\sudheer\Documents\C#Practice\PrintThetTables\PrintThetTables\bin\Debug\PrintThetTables.exe.config
+C:\Users\sudheer\Documents\C#Practice\PrintThetTables\PrintThetTables\bin\Debug\PrintThetTables.exe
+C:\Users\sudheer\Documents\C#Practice\PrintThetTables\PrintThetTables\bin\Debug\PrintThetTables.pdb
+C:\Users\sudheer\Documents\C#Practice\PrintThetTables\PrintThetTables\obj\Debug\PrintThetTables.csprojResolveAssemblyReference.cache
+C:\Users\sudheer\Documents\C#Practice\PrintThetTables\PrintThetTables\obj\Debug\PrintThetTables.exe
+C:\Users\sudheer\Documents\C#Practice\PrintThetTables\PrintThetTables\obj\Debug\PrintThetTables.pdb

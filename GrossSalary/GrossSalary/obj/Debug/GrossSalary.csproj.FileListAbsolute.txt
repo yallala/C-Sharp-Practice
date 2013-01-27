@@ -1,0 +1,6 @@
+C:\Users\sudheer\Documents\C#Practice\GrossSalary\GrossSalary\bin\Debug\GrossSalary.exe.config
+C:\Users\sudheer\Documents\C#Practice\GrossSalary\GrossSalary\bin\Debug\GrossSalary.exe
+C:\Users\sudheer\Documents\C#Practice\GrossSalary\GrossSalary\bin\Debug\GrossSalary.pdb
+C:\Users\sudheer\Documents\C#Practice\GrossSalary\GrossSalary\obj\Debug\GrossSalary.csprojResolveAssemblyReference.cache
+C:\Users\sudheer\Documents\C#Practice\GrossSalary\GrossSalary\obj\Debug\GrossSalary.exe
+C:\Users\sudheer\Documents\C#Practice\GrossSalary\GrossSalary\obj\Debug\GrossSalary.pdb
