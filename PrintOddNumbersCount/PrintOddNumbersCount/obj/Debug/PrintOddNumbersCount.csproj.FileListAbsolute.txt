@@ -1,0 +1,6 @@
+C:\Users\sudheer\Documents\GitHub\C-Sharp-Practice\PrintOddNumbersCount\PrintOddNumbersCount\bin\Debug\PrintOddNumbersCount.exe.config
+C:\Users\sudheer\Documents\GitHub\C-Sharp-Practice\PrintOddNumbersCount\PrintOddNumbersCount\obj\Debug\PrintOddNumbersCount.csprojResolveAssemblyReference.cache
+C:\Users\sudheer\Documents\GitHub\C-Sharp-Practice\PrintOddNumbersCount\PrintOddNumbersCount\bin\Debug\PrintOddNumbersCount.exe
+C:\Users\sudheer\Documents\GitHub\C-Sharp-Practice\PrintOddNumbersCount\PrintOddNumbersCount\bin\Debug\PrintOddNumbersCount.pdb
+C:\Users\sudheer\Documents\GitHub\C-Sharp-Practice\PrintOddNumbersCount\PrintOddNumbersCount\obj\Debug\PrintOddNumbersCount.exe
+C:\Users\sudheer\Documents\GitHub\C-Sharp-Practice\PrintOddNumbersCount\PrintOddNumbersCount\obj\Debug\PrintOddNumbersCount.pdb
